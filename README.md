@@ -32,7 +32,7 @@ This project, `simple_shell`, is a custom implementation of a simple UNIX shell 
 ## More Info and Examples
 ### Installation
 Designed to run on `Ubuntu 20.04 LTS`, the simple_shell can be installed as follows:
- * Clone the current repository with the command: ```git clone "https://github.com/stephenmakenziwaweru/simple_shell.git"```
+ * Clone the current repository with the command: ```git clone "https://github.com/Eninetjanice/simple_shell.git"```
  * `cd` in to the cloned directory: ```cd simple_shell```
  * Create an executable using: ```gcc -Wall -Werror -Wextra -pedantic *.c -o hsh```
  * Run the executable either in interative mode `./hsh` or non-interactive mode `echo "pwd" | ./hsh`
@@ -62,30 +62,27 @@ $
  - [x] 4. Simple shell 0.3
  - [x] 5. Simple shell 0.4
  - [x] 6. Simple shell 1.0
- - [x] 7. What happens when you type `ls -l \*.c` in the shell
+
 ## Advanced Tasks
- - [ ] 8. Test suite
- - [ ] 9. Simple shell 0.1.1
- - [ ] 10. Simple shell 0.2.1
- - [ ] 11. Simple shell 0.4.1
- - [ ] 12. Simple shell 0.4.2
- - [ ] 13. setenv, unsetenv
- - [ ] 14. cd
- - [ ] 15. ;
- - [ ] 16. && and ||
- - [ ] 17. alias
- - [ ] 18. Variables
- - [ ] 19. Comments
- - [ ] 20. help
- - [ ] 21. history
- - [ ] 22. File as input 
+ - [ ] 7. Simple shell 0.1.1
+ - [ ] 8. Simple shell 0.2.1
+ - [ ] 9. Simple shell 0.4.1
+ - [ ] 10. setenv, unsetenv
+ - [ ] 11. cd
+ - [ ] 12. ;
+ - [ ] 13. && and ||
+ - [ ] 14. alias
+ - [ ] 15. Variables
+ - [ ] 16. Comments
+ - [ ] 17. File as input
+ 
 ## Bugs
 No known bugs exists within the program as of this writing.
 
 ## Authors
-Stephen Makenzi Waweru | [@stephenmakenziwaweru](https://github.com/StephenMakenziWaweru)
+Janeth Eni | [@Eninetjanice](https://github.com/Eninetjanice)
 
-Aloice Okoth | [@aloicerains](https://github.com/aloicerains)
+Chinaza Nwachukwu | [@Necycoded](https://github.com/Necycoded)
 
 ## License
 Given the open source nature of the project, no special licenses or license whatsoever is needed to use, modify, and redistribute the simple_shell program.
