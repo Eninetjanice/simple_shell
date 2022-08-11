@@ -80,6 +80,7 @@ $
 No known bugs exists within the program as of this writing.
 
 ## Authors
+
 Janeth Eni | [@Eninetjanice](https://github.com/Eninetjanice)
 
 Chinaza Nwachukwu | [@Necycoded](https://github.com/Necycoded)
